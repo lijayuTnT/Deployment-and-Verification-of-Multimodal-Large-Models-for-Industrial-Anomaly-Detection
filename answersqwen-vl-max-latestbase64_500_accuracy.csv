@@ -1,0 +1,6 @@
+,Anomaly Detection,Defect Classification,Defect Localization,Defect Description,Defect Analysis,Object Classification,Object Analysis,Average
+DS-MVTec,76.35 ,63.90 ,76.19 ,83.02 ,93.53 ,99.14 ,94.73 ,83.84 
+MVTec-LOCO,52.98 ,45.72 ,48.27 ,61.19 ,79.98 ,92.28 ,83.92 ,66.33 
+VisA,64.86 ,44.54 ,63.41 ,70.34 ,84.01 ,92.94 ,88.13 ,72.60 
+GoodsAD,57.84 ,53.32 ,61.62 ,72.47 ,85.27 ,93.06 ,87.23 ,72.97 
+Average,63.01 ,51.87 ,62.37 ,71.75 ,85.70 ,94.36 ,88.50 ,73.94 
